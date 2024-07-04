@@ -1,0 +1,16 @@
+header{
+width: auto;
+height: 150px;
+background-image: url(/image/BG2.jpg);
+font-size: 60px;
+text-align: right;
+color: red;
+}
+div{
+background-color: burlywood;
+margin: 3px;
+border-radius: 8px;
+font-size: 35px;
+margin-left: 90px;
+
+}
